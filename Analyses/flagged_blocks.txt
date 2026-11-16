@@ -1,0 +1,3 @@
+Blocks skipped in the analyses: 1
+participant	category	VFT responses	SpAM responses	reason	response
+P040	Body Parts	8	8	run-together entry	AANKH, KAAN, NAAK, SAR, PET, PAIR, SAR,UNGLIYAN, DIL, KIDNEY,
